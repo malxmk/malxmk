@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, im Mal 👋
+🎓 I’m a first-year Computer and AI Engineering student.  
+🧠 Passionate about learning and building
 <!--
 **malxmk/malxmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
